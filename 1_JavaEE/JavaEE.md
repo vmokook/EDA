@@ -6,8 +6,10 @@ Glassfish 7.0.11
 
 ## Task 1
 
-Запуск сервера GlassFish
+Запуск сервера GlassFish по команде: 
+
 `asadmin start-domain`
-фото
+
+![1](https://github.com/vmokook/HPC-2023/blob/main/EDA/1_JavaEE/images/1.png)
 
 
