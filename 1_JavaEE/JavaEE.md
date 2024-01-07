@@ -10,6 +10,6 @@ Glassfish 7.0.11
 
 `asadmin start-domain`
 
-![1](https://github.com/vmokook/HPC-2023/blob/main/EDA/1_JavaEE/images/1.png)
+![1](https://github.com/vmokook/EDA/blob/main/1_JavaEE/images/1.png)
 
 
