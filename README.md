@@ -6,4 +6,4 @@
 
 3. [REST](https://github.com/vmokook/EDA/tree/main/3_REST)
 
-4. [JMS] (https://github.com/vmokook/EDA/tree/main/4_JMS/JMS_v8)
+4. [JMS](https://github.com/vmokook/EDA/tree/main/4_JMS/JMS_v8)
